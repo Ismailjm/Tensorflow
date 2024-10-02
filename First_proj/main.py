@@ -1,5 +1,7 @@
 import tensorflow as tf
 
+# version of tensorflow
+
 print("TensorFlow version:", tf.__version__)
 
 # Check if GPU support is available
